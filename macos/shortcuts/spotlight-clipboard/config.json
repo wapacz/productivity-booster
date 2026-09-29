@@ -1,0 +1,10 @@
+{
+  "shortcut_name": "Open Clipboard History",
+  "trigger_type": "Quick Action",
+  "global_hotkey": "Option+Command+V",
+  "dependencies": [
+    "System Events",
+    "Accessibility Permissions"
+  ],
+  "compatibility": "macOS 15.0+"
+}
